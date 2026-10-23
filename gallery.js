@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
       categoryName: "Grand Entrance",
       desc: "Spectacular 60-foot entrance passage lined with crystal chandeliers, hanging white wisteria, and red carpet.",
       image: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1600&q=85",
-      venue: "Luxury Convention Centre, Hosur"
+      venue: "Luxury Convention Centre, Hosur" 
     },
     {
       id: 3,
