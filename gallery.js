@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     ];
 
-    // பாக்கி உள்ள கோடுகள் அப்படியே இருக்கட்டும்...
+   
 });
     {
       id: 4,
