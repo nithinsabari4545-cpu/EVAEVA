@@ -3,35 +3,38 @@
    ========================================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
-  // Gallery Portfolio Data
-  const galleryItems = [
-    {
-      id: 1,
-      title: "Royal Crimson & Gold Mandap",
-      category: "mandap",
-      categoryName: "Mandap Decor",
-      desc: "Handcrafted carved golden pillars adorned with over 5,000 fresh red Dutch roses and cascading jasmine strings.",
-      image: "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1600&q=85",
-      venue: "Grand Kalyana Mandapam, Hosur"
-    },
-    {
-      id: 2,
-      title: "Fairytale Chandelier Tunnel",
-      category: "entrance",
-      categoryName: "Grand Entrance",
-      desc: "Spectacular 60-foot entrance passage lined with crystal chandeliers, hanging white wisteria, and red carpet.",
-      image: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1600&q=85",
-      venue: "Luxury Convention Centre, Hosur" 
-    },
-    {
-      id: 3,
-      title: "Sunlit Marigold Haldi Haven",
-      category: "haldi",
-      categoryName: "Haldi / Mehendi",
-      desc: "Vibrant yellow and orange marigold canopy with traditional carved wooden jhula and brass floral urlis.",
-      image: "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=1600&q=85",
-      venue: "Garden Resort, Mookandapalli"
-    },
+    const galleryItems = [
+        {
+            id: 1,
+            title: "Royal Crimson & Gold Mandap",
+            category: "mandap",
+            categoryName: "Mandap Decor",
+            desc: "Handcrafted carved golden pillars adorned with over 5,000 fresh red Dutch roses.",
+            image: "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+            venue: "Grand Kalyana Mandapam, Hosur"
+        },
+        {
+            id: 2,
+            title: "Fairytale Chandelier Tunnel",
+            category: "entrance",
+            categoryName: "Grand Entrance",
+            desc: "Spectacular 60-foot entrance passage lined with crystal chandeliers and white wisteria.",
+            image: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=80",
+            venue: "Luxury Convention Centre, Hosur"
+        },
+        {
+            id: 3,
+            title: "Sunlit Marigold Haldi Haven",
+            category: "haldi",
+            categoryName: "Haldi / Mehendi",
+            desc: "Vibrant yellow and orange marigold canopy with traditional carved wooden jhula.",
+            image: "https://images.unsplash.com/photo-1545232979-8bf68ee9b1af?auto=format&fit=crop&w=1200&q=80",
+            venue: "Private Garden Villa, Krishnagiri"
+        }
+    ];
+
+    // பாக்கி உள்ள கோடுகள் அப்படியே இருக்கட்டும்...
+});
     {
       id: 4,
       title: "Pastel Euphoria Reception Stage",
